@@ -1,0 +1,5 @@
+Credentials cache: API:9C70BE35-B131-4A15-B293-C02A6C5F33F9
+        Principal: ibouhlal@1337.MA
+
+  Issued                Expires             Flags    Principal
+Aug  2 15:03:32 2021  Aug  3 01:03:19 2021  FPIA   krbtgt/1337.MA@1337.MA
